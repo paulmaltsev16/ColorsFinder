@@ -21,20 +21,6 @@ such as:
 - Display RGB value of this color
 - Display percent value of this color in image
 
-#####  Time for this task:
-- 04.07.2021 - 20:00 - 23:00
-   - Searching for information how to get a dominant color from an image, how work with cameraX also creating the first version of the xml file
-- 05.07.2021 - 13:00 - 23:00
-   - Receiving camera permission
-   - Writing methods, classes
-   - The final version of the xml file
-   - Writing Android tests
-   - Creating screenshots for readme
-- 06.07.2021 - 10:00 - 13:00
-   - Writing readme file
-   - Application check
-   - Some changes
-
 ### Screenshot explanation:
    - Screenshot 1:
      - In the screenshot at number one you can see how the division
