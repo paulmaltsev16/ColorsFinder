@@ -1,4 +1,5 @@
-# FindColors
+# Colors Finder
+
 ## Android project for PDACTECH
 ### Autor: Pavel Maltsev
 ### Created: 04.07.2021
