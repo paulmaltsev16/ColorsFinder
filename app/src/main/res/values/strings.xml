@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FindColors</string>
+    <string name="please_allow_cameras_permission">Please allow cameras permission</string>
+    <string name="dominant_colors">Dominant colors</string>
+    <string name="permission_not_granted_by_user">Permissions not granted by the user.</string>
+</resources>

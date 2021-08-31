@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_between_rgb_colors">10dp</dimen>
+    <dimen name="standard_margin">10dp</dimen>
+    <dimen name="text_size_percents_of_color">20sp</dimen>
+    <dimen name="small_margin">5dp</dimen>
+    <dimen name="height_rgb_cell">50dp</dimen>
+    <dimen name="width_rgb_cell">120dp</dimen>
+ </resources>
