@@ -13,11 +13,11 @@
 - AndroidTests
 
 #### Short explanation what app can do:
-The application works in real time,
-it takes an image from the camera.  
+The application works in real time.
+It takes an image from the camera.  
 Performs various actions with it,
 such as:
-- Looking for most popular color in the image.
+- Looking for the most popular color in the image.
 - Display RGB value of this color
 - Display percent value of this color in image
 
@@ -45,11 +45,11 @@ such as:
 
 - Screenshot 4:
      - Screenshot number four demonstrates the application in real time.  
-       If we start landscope mode and portrait mode a large number of times.  
+       If we start landscape mode and portrait mode a large number of times.  
        Then the application requires more resources for correct operation.  
        There are several ways to solve this problem:
         - The main load on the application is the method to get percentages of color (getPercentsOfCurrentColor())  
-          we can reduce the number of pixels so that the application worked faster but then the calculation will be inaccurate.
+          we can reduce the number of pixels so that the application works faster but then the calculation will be inaccurate.
         - There is also a Garbage collector that helps us solve this problem
 
 #### Screenshot 4
